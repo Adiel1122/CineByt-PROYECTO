@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Clase principal de la aplicación (Main).
  * Orquesta el inicio de sesión, la carga de datos y la navegación por los menús.
  */
-public class CineApp {
+public class CineByt {
     // Listas maestras de datos (Memoria RAM)
     private static List<Usuario> usuarios;
     private static List<Pelicula> peliculas;
@@ -295,3 +295,4 @@ public class CineApp {
         }
     }
 }
+
