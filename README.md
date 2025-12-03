@@ -1,9 +1,9 @@
 Para acceder al Administrador (CineByt -> linea 144):
-Nickname: Administrador
+Nickname: elAdministrador
 Contraseña: 314dm1n
 Datos generales (nombre, edad, correo, cel):
 elAdmin
-100
+30
 admin@cinebyt.mx
 5555555555
 
