@@ -13,7 +13,7 @@ apPaterno: Auto
 apMaterno: Bot
 edad: 0
 nickname: CocinaExpress
-password: pass
+password: C1N3b0t
 email: x
 telefono: x
 turno: Empleado.Turno.MATUTINO
