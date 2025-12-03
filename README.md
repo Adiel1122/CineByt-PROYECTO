@@ -1,6 +1,6 @@
 Para acceder al Administrador (CineByt -> linea 144):
 Nickname: elAdministrador
-Contraseña: 3l4dm1n
+Contraseña: 314dm1n
 Datos generales (nombre, edad, correo, cel):
 elAdmin
 30
@@ -13,7 +13,7 @@ apPaterno: Auto
 apMaterno: Bot
 edad: 0
 nickname: CocinaExpress
-password: C1N3b0t
+password: pass
 email: x
 telefono: x
 turno: Empleado.Turno.MATUTINO
